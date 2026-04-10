@@ -7,9 +7,6 @@
 ## Results
 The model successfully identifies crops and weeds to enable targeted pesticide application, reducing chemical waste and ensuring food safety.
 
-### Visual Proof
-![Detection Result](sample result.jpg)
-
 ## How to use
 ```python
 from ultralytics import YOLO
